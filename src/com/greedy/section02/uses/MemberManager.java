@@ -28,3 +28,6 @@ public class MemberManager {
 		System.out.println("총 " + selectedMembers.length + "명의 회원이 가입되어 있습니다.");
 	}
 }
+
+
+
